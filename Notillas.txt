@@ -1,0 +1,5 @@
+Gato
+Perro
+Hamster
+Pajaro
+Lobo
